@@ -1,0 +1,10 @@
+# Chặn các file thực thi nhị phân
+*.exe
+*.o
+*.bin
+*.hex
+*.elf
+
+# Chặn file tạm hệ thống và trình biên dịch
+.vscode/
+*.log
